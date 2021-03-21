@@ -9,8 +9,8 @@ a:link {
 }
 
 p {
-  background-color:black;
-  color:white;
+  background-color:#FFFFFF;
+  color:#FFFFFF;
   display: block;
   width: 300px;
   padding: 30px;
@@ -20,8 +20,8 @@ p {
 }
 
 p0 {
-  background-color:black;
-  color:white;
+  background-color:#FFFFFF;
+  color:#FFFFFF;
   display: block;
   width: 350px;
   margin-left: auto;
